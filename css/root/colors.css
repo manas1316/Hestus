@@ -1,3 +1,7 @@
+/* Default font */
+@import url('https://fonts.googleapis.com/css2?family=Viga&display=swap');
+
+
 :root {
     /* Gray */
     --gray1: #F9FAFB;
@@ -94,5 +98,9 @@
     --pink8: #BE185D;
     --pink9: #9D174D;
     --pink10: #831843;
+
+
+    /* Fonts */
+    --ff: 'Viga', sans-serif;
 
 }
